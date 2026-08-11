@@ -6,6 +6,10 @@ M5Stack Atom Liteの内蔵RGB LEDを、スマートフォンやPCのWebブラウ
 
 [日本語](#日本語) | [English](#english)
 
+## Screenshot / スクリーンショット
+
+![AtomLite LED Web Palette web interface](docs/images/web-interface.png)
+
 ---
 
 ## 日本語
